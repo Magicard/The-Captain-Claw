@@ -5,6 +5,7 @@ using UnityEngine;
 public class rightFollowScript : MonoBehaviour
 {
     public GameObject player;
+    public float distance= 1.88f;
 
     // Start is called before the first frame update
     void Start()
@@ -15,6 +16,6 @@ public class rightFollowScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        gameObject.transform.position = new Vector2(player.transform.position.x + 1.55f, player.transform.position.y);
+        gameObject.transform.position = new Vector2(player.transform.position.x + distance, player.transform.position.y);
     }
 }
