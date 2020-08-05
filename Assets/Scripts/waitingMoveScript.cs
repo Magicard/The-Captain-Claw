@@ -23,6 +23,8 @@ public class waitingMoveScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        Debug.Log(rb2D.velocity.y);
+
         if (rightCol.GetComponent<enemyAttackScript>().enemyCheck == true)
         {
             rb2D.velocity = Vector3.zero;
@@ -72,12 +74,10 @@ public class waitingMoveScript : MonoBehaviour
 
         
         rb2D.AddForce(Vector2.left * (force), ForceMode2D.Impulse);
-        Debug.Log("left");
         yield return new WaitForSeconds(2);
         rb2D.velocity = Vector3.zero;
 
         rb2D.AddForce(Vector2.right * (force), ForceMode2D.Impulse);
-        Debug.Log("right");
         yield return new WaitForSeconds(2);
         rb2D.velocity = Vector3.zero;
         StartCoroutine(upAndDown());

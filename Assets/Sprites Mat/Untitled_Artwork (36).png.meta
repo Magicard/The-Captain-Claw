@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 0f597c52e1b257848b0c9b519bf1f4db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6502816343052683794
+    second: Untitled_Artwork (36)_0
+  - first:
+      213: -3745460817348479417
+    second: Untitled_Artwork (36)_1
+  - first:
+      213: -9061760077135261951
+    second: Untitled_Artwork (36)_2
+  - first:
+      213: -6361645735840078712
+    second: Untitled_Artwork (36)_3
+  - first:
+      213: -5725431803980631141
+    second: Untitled_Artwork (36)_4
+  - first:
+      213: 8301226507982609682
+    second: Untitled_Artwork (36)_5
+  - first:
+      213: 2534535988107570614
+    second: Untitled_Artwork (36)_6
+  - first:
+      213: -8808825709417315134
+    second: Untitled_Artwork (36)_7
+  - first:
+      213: -5490066664353213984
+    second: Untitled_Artwork (36)_8
+  - first:
+      213: 8619509632413219440
+    second: Untitled_Artwork (36)_9
+  - first:
+      213: 6111236384393299672
+    second: Untitled_Artwork (36)_10
+  - first:
+      213: -3425770867451007180
+    second: Untitled_Artwork (36)_11
+  - first:
+      213: -4015928277948459938
+    second: Untitled_Artwork (36)_12
+  - first:
+      213: 2740024366316241141
+    second: Untitled_Artwork (36)_13
+  - first:
+      213: 6159963738411432128
+    second: Untitled_Artwork (36)_14
+  - first:
+      213: -4618296443316361424
+    second: Untitled_Artwork (36)_15
+  - first:
+      213: -7073299606209292432
+    second: Untitled_Artwork (36)_16
+  - first:
+      213: 8604528357304639011
+    second: Untitled_Artwork (36)_17
+  - first:
+      213: 2556311838622358893
+    second: Untitled_Artwork (36)_18
+  - first:
+      213: -6466923896227192702
+    second: Untitled_Artwork (36)_19
+  - first:
+      213: 5756201813199999979
+    second: Untitled_Artwork (36)_20
+  - first:
+      213: 3491808435203552700
+    second: Untitled_Artwork (36)_21
+  - first:
+      213: -536280585281797295
+    second: Untitled_Artwork (36)_22
+  - first:
+      213: -6168528999234810464
+    second: Untitled_Artwork (36)_23
+  - first:
+      213: -8286743024094908214
+    second: Untitled_Artwork (36)_24
+  - first:
+      213: -4869627811727406401
+    second: Untitled_Artwork (36)_25
+  - first:
+      213: 3680015774809620564
+    second: Untitled_Artwork (36)_26
+  - first:
+      213: 3860144932157349819
+    second: Untitled_Artwork (36)_27
+  - first:
+      213: 7543765595837252569
+    second: Untitled_Artwork (36)_28
+  - first:
+      213: -6371195641250111833
+    second: Untitled_Artwork (36)_29
+  - first:
+      213: -3979501406775501628
+    second: Untitled_Artwork (36)_30
+  - first:
+      213: 7248828717052999051
+    second: Untitled_Artwork (36)_31
+  - first:
+      213: -773559509274574000
+    second: Untitled_Artwork (36)_32
+  - first:
+      213: -8520579857294821496
+    second: Untitled_Artwork (36)_33
+  - first:
+      213: -2266385683205504147
+    second: Untitled_Artwork (36)_34
+  - first:
+      213: -990618719582790265
+    second: Untitled_Artwork (36)_35
+  - first:
+      213: -1087656952130780902
+    second: Untitled_Artwork (36)_36
+  - first:
+      213: -2325063089184391203
+    second: Untitled_Artwork (36)_37
+  - first:
+      213: -1603847110962409466
+    second: Untitled_Artwork (36)_38
+  - first:
+      213: -7667471361299759286
+    second: Untitled_Artwork (36)_39
+  - first:
+      213: -938224844351272999
+    second: Untitled_Artwork (36)_40
+  - first:
+      213: 7948948021583955520
+    second: Untitled_Artwork (36)_41
+  - first:
+      213: -4318489275067146690
+    second: Untitled_Artwork (36)_42
+  - first:
+      213: 1834262733805583008
+    second: Untitled_Artwork (36)_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

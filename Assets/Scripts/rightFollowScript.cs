@@ -5,7 +5,7 @@ using UnityEngine;
 public class rightFollowScript : MonoBehaviour
 {
     public GameObject player;
-    public float distance= 1.88f;
+    public float distance= 1.7f;
 
     // Start is called before the first frame update
     void Start()
