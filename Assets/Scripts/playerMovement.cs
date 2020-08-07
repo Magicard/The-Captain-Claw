@@ -10,6 +10,7 @@ public class playerMovement : MonoBehaviour
     bool jump = false;
     bool crouch = false;
     public bool onLadder;
+    public float facing= 0;
     void Start()
     {
         
@@ -20,6 +21,7 @@ public class playerMovement : MonoBehaviour
     {
         onLadder = ladderObj.GetComponent<ladderScript>().onLadder;
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+
         if (!onLadder)
         {
             if (Input.GetButtonDown("Jump"))

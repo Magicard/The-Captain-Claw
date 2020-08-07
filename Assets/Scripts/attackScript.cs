@@ -31,7 +31,7 @@ public class attackScript : MonoBehaviour
         enemyCheck = false;
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.CompareTag("Tag"))
         {

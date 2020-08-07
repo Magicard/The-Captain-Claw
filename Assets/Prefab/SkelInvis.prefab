@@ -13,7 +13,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8255644588481006820, guid: fecb2a1b43e19414f81fc36d5f335b5b, type: 3}
       propertyPath: m_Name
-      value: Enemy Skel
+      value: SkelInvis
       objectReference: {fileID: 0}
     - target: {fileID: 8255644588481006831, guid: fecb2a1b43e19414f81fc36d5f335b5b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -59,6 +59,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8255644588739511240, guid: fecb2a1b43e19414f81fc36d5f335b5b, type: 3}
+      propertyPath: hunnid
+      value: 
+      objectReference: {fileID: 2575311485186112794, guid: 538e4193c3fd3214f883133762af0766, type: 3}
     - target: {fileID: 8255644588943913952, guid: fecb2a1b43e19414f81fc36d5f335b5b, type: 3}
       propertyPath: m_Enabled
       value: 0

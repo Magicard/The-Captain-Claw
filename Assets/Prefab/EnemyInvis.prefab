@@ -17,7 +17,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7218075251275515170, guid: 41e17672226ee9e47ad992cebeb45792, type: 3}
       propertyPath: m_Name
-      value: Enemy Fish
+      value: EnemyInvis
       objectReference: {fileID: 0}
     - target: {fileID: 7218075251275515177, guid: 41e17672226ee9e47ad992cebeb45792, type: 3}
       propertyPath: m_LocalPosition.x
@@ -63,5 +63,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7218075251465800206, guid: 41e17672226ee9e47ad992cebeb45792, type: 3}
+      propertyPath: hunnid
+      value: 
+      objectReference: {fileID: 2575311485186112794, guid: 538e4193c3fd3214f883133762af0766, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41e17672226ee9e47ad992cebeb45792, type: 3}

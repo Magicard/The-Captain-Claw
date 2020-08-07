@@ -23,7 +23,7 @@ public class waitingMoveScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        Debug.Log(rb2D.velocity.y);
+      
 
         if (rightCol.GetComponent<enemyAttackScript>().enemyCheck == true)
         {
